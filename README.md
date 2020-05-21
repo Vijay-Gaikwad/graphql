@@ -4,7 +4,8 @@
 ```npm run json:server```
  * you should get this output
  
- ```Loading db.json
+ ```
+  Loading db.json
   Done
 
   Resources
